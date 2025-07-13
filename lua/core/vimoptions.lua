@@ -28,3 +28,6 @@ vim.opt.hlsearch = true
 
 vim.opt.mouse = "v" 
 vim.g.editorconfig = true
+
+vim.opt.scrolloff = 5
+
